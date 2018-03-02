@@ -1,0 +1,93 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin-top:0px;
+}
+.banner {
+	background-image:url("../images/shunderban.jpg");
+	background-repeat: no-repeat;
+	text-transform:capitalize;
+	width:960px;
+	height:400px;
+	color:#ffffff;
+}
+.banner h1 {
+	padding-left:10px;
+	padding-top:130px;
+}
+.nav{
+	width:960px;
+	height:50px;
+	position:fixed;
+	background:rgba(0,0,0,0.8);
+}
+.nav ul{
+	margin-top:0px;
+}
+.nav li a{
+	text-decoration:none;
+	font-weight:bold;	
+	font-size:18px;
+	color:#ffffff;
+}
+.nav ul li {
+	float:right;
+	display:inline;
+	padding: 16px 15px 0px 15px;
+}
+.nav p{
+	float:left;
+	background:black;
+	color:#fff;
+	font-weight:bold;
+	letter-spacing: 2px;
+	line-height:25px;
+	margin-top:10px;
+	margin-left:10px;
+	padding: 2px 6px 2px 6px;
+}
+.active{
+	padding:2px 4px 2px 4px;
+	background: #E2472F;
+	border-radius: 13px;
+}
+.grid_3 ul a {
+	text-decoration:none;
+	text-transform:capitalize;
+	display:block;
+	margin-left:0px;
+    margin-top:10px;
+	border:2px solid black;
+	padding-left:7px;
+	padding-top:2px;
+	padding-bottom:2px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	color:#000000;
+}
+.grid_3 h3 {
+	float: none;
+	padding-bottom:19px;
+	border-bottom:1px solid #000000;
+}
+.last h3 {
+    margin-left:20px;
+    border-bottom:hidden;
+}
+.last ul a:hover {
+	font-weight:bolder;
+}
+h3{
+	float:left;
+	border-bottom:1px solid #000000;
+}
+.grid_3 p{
+	float: left;
+}
+footer {
+	float: none;
+	margin-top:10px;
+	padding-top:10px;
+	border-top:1px solid #000000;
+
+}
