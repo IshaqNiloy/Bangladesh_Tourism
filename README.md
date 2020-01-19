@@ -1,2 +1,2 @@
 # bangladeshtourism
-<img src = "images/tourism.png">
+<img src = "images/tourism.PNG">
